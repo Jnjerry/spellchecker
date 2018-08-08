@@ -1,0 +1,3 @@
+# spellchecker
+
+sample laravel spellchecker
